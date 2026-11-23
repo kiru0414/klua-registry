@@ -1,0 +1,2 @@
+# Aliases starting with "j". Format: alias: scheme-target
+jq: gh:jqlang/jq

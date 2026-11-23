@@ -1,0 +1,2 @@
+# Aliases starting with "g". Format: alias: scheme-target
+glab: gh:gitlab-org/cli

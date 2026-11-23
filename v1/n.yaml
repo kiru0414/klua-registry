@@ -1,0 +1,3 @@
+# Aliases starting with "n". Format: alias: scheme-target
+neovim: gh:neovim/neovim
+nvim: gh:neovim/neovim

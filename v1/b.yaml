@@ -1,0 +1,2 @@
+# Aliases starting with "b". Format: alias: scheme-target
+bat: gh:sharkdp/bat

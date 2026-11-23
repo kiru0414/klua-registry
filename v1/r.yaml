@@ -1,0 +1,3 @@
+# Aliases starting with "r". Format: alias: scheme-target
+rg: gh:BurntSushi/ripgrep
+ripgrep: gh:BurntSushi/ripgrep

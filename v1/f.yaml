@@ -1,0 +1,3 @@
+# Aliases starting with "f". Format: alias: scheme-target
+fd: gh:sharkdp/fd
+fzf: gh:junegunn/fzf
