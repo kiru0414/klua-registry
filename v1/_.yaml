@@ -1,3 +1,63 @@
-# Aliases starting with a non-letter (digits, symbols) live here.
-# Format: alias: scheme-target
-# example: "7zip: gh:ip7z/7zip"
+# klua registry shard: _ (digits and symbols)
+aliases:
+  "0ad": sys:0ad
+  "0x0": gh:mia-0/0x0
+  "0x10c": sys:0x10c
+  "1": gh:maaslalani/1
+  11ty: sys:eleventy
+  1password-cli: gh:1Password/cli
+  1password-gui: sys:1password
+  2048-cli: sys:2048-cli
+  2fa: gh:rsc/2fa
+  2ping: sys:2ping
+  2to3: python
+  389-ds-base: sys:389-ds-base
+  3mux: gh:aaronjanse/3mux
+  3proxy: gh:3proxy/3proxy
+  42sh: sys:42sh
+  4store: sys:4store
+  4th: sys:4th
+  4ti2: sys:4ti2
+  6tunnel: gh:wojtekka/6tunnel
+  7z: 7zip
+  7za: p7zip
+  7zip: gh:ip7z/7zip
+  7zr: p7zip
+  7zz: 7zip
+  8086tiny: sys:8086tiny
+  "99": gh:ThePrimeagen/99
+  9base: sys:9base
+  9menu: sys:9menu
+  9mount: sys:9mount
+  9pfs: sys:9pfs
+  9wm: sys:9wm
+  _build: sys:dune
+  +1: gh:plus1/plus1
+  1000-genomes: sys:vcftools
+  12factor: gh:12factor/12factor
+  1password: 1password-cli
+  256colors2: sys:xterm
+  2bwm: sys:2bwm
+  2csv: gh:2csv/2csv
+  2fa-cli: 2fa
+  2pdf: gh:2pdf/2pdf
+  3ddesktop: sys:3ddesktop
+  3ds2obj: gh:3ds2obj/3ds2obj
+  3dskull: sys:afni
+  3sum: gh:3sum/3sum
+  4chan-downloader: gh:4chan-downloader/4chan-downloader
+  4d: gh:4d/4d
+  4pane: sys:4pane
+  500px: gh:500px/500px
+  512sum: coreutils
+  64tass: sys:64tass
+  68000-gcc: sys:m68k-elf-gcc
+  7z-bin: 7zip
+  8cc: gh:rui314/8cc
+  8th: sys:8th
+  915resolution: sys:915resolution
+  9dfuse: sys:9dfuse
+  9p: gh:docker/go-p9p
+  9pfuse: sys:9pfuse
+  9pr: gh:docker/go-p9p
+  9vx: sys:9vx
