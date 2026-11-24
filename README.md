@@ -1,8 +1,8 @@
-![logo](https://github.com)
+![logo](https://raw.githubusercontent.com/kiru0414/klua/refs/heads/main/docs/asset/logo-1.svg)
 
 # klua official registry
 
-This repository is the official alias registry (`kiru0414/klua-registry`) for [klua](https://github.com). By default, `klua` fetches alias shards at runtime from:
+This repository is the official alias registry (`kiru0414/klua-registry`) for [klua](https://github.com/kiru0414). By default, `klua` fetches alias shards at runtime from:
 
 That URL is embedded as the default registry in `builtin/default_init.lua`.
 
