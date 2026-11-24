@@ -1,0 +1,29 @@
+# klua registry shard: q
+aliases:
+  q: gh:harelba/q
+  qalculate-gtk: sys:qalculate-gtk
+  qbs: gh:qbs/qbs
+  qca: sys:qca
+  qcachegrind: sys:qcachegrind
+  qcat: gh:zylo117/qcat
+  qdirstat: sys:qdirstat
+  qemu: sys:qemu
+  qgis: sys:qgis
+  qhull: sys:qhull
+  qjson: sys:qjson
+  qpdf: gh:qpdf/qpdf
+  qprint: sys:qprint
+  qr: gh:caarlos0/qr
+  qrencode: sys:qrencode
+  qstat: sys:qstat
+  qsv: gh:jqnatividad/qsv
+  qt: sys:qt
+  quagga: sys:quagga
+  quarto: gh:quarto-dev/quarto-cli
+  questdb: gh:questdb/questdb
+  quick-lint-js: gh:quick-lint/quick-lint-js
+  quickjs: gh:bellard/quickjs
+  quicktype: gh:glideapps/quicktype
+  quilt: sys:quilt
+  qutebrowser: sys:qutebrowser
+  qview: gh:jurplel/qView
