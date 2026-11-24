@@ -88,3 +88,4 @@ aliases:
   lz4: sys:lz4
   lzip: sys:lzip
   lzop: sys:lzop
+  llama.cpp: sys:lama.cpp
