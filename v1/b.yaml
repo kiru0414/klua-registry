@@ -1,31 +1,30 @@
 # Aliases starting with "b". Format: alias: scheme-target
-aliases:
-  b2: gh:Backblaze/B2_Command_Line_Tool
-  b3sum: gh:BLAKE3-team/BLAKE3
-  babashka: gh:babashka/babashka
-  bacon: gh:Canop/bacon
-  bandwhich: gh:imsnif/bandwhich
-  bat: gh:sharkdp/bat
-  bazelisk: gh:bazelbuild/bazelisk
-  bcal: gh:jarun/bcal
-  bento: gh:warpstreamlabs/bento
-  bfs: gh:tavianator/bfs
-  bicep: gh:Azure/bicep
-  bingrep: gh:m4b/bingrep
-  biome: gh:biomejs/biome
-  bit: gh:chriswalz/bit
-  bkt: gh:dimo414/bkt
-  bloaty: gh:google/bloaty
-  bombardier: gh:codesenberg/bombardier
-  bottom: gh:ClementTsang/bottom
-  bpftrace: gh:iovisor/bpftrace
-  broot: gh:Canop/broot
-  btop: gh:aristocratos/btop
-  buck2: gh:facebook/buck2
-  buf: gh:bufbuild/buf
-  buildifier: gh:bazelbuild/buildtools
-  buildozer: gh:bazelbuild/buildtools
-  bun: gh:oven-sh/bun
-  butane: gh:coreos/butane
-  bw: gh:bitwarden/clients
-  bzip3: gh:kspalaiologos/bzip3
+b2: gh:Backblaze/B2_Command_Line_Tool
+b3sum: gh:BLAKE3-team/BLAKE3
+babashka: gh:babashka/babashka
+bacon: gh:Canop/bacon
+bandwhich: gh:imsnif/bandwhich
+bat: gh:sharkdp/bat
+bazelisk: gh:bazelbuild/bazelisk
+bcal: gh:jarun/bcal
+bento: gh:warpstreamlabs/bento
+bfs: gh:tavianator/bfs
+bicep: gh:Azure/bicep
+bingrep: gh:m4b/bingrep
+biome: gh:biomejs/biome
+bit: gh:chriswalz/bit
+bkt: gh:dimo414/bkt
+bloaty: gh:google/bloaty
+bombardier: gh:codesenberg/bombardier
+bottom: gh:ClementTsang/bottom
+bpftrace: gh:iovisor/bpftrace
+broot: gh:Canop/broot
+btop: gh:aristocratos/btop
+buck2: gh:facebook/buck2
+buf: gh:bufbuild/buf
+buildifier: gh:bazelbuild/buildtools
+buildozer: gh:bazelbuild/buildtools
+bun: gh:oven-sh/bun
+butane: gh:coreos/butane
+bw: gh:bitwarden/clients
+bzip3: gh:kspalaiologos/bzip3
