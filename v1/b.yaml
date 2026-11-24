@@ -1,26 +1,157 @@
 # klua registry shard: b
 aliases:
+  b2-tools: sys:b2-tools
+  b2sum: sys:b2sum
+  b3sum: blake3
+  b43-fwcutter: sys:b43-fwcutter
   babashka: gh:babashka/babashka
+  babel: sys:babel
+  babeld: sys:babeld
+  babl: sys:babl
+  bacula-fd: sys:bacula-fd
+  badtouch: gh:kpcyrd/badtouch
+  baidupcs-go: gh:qjfoidnh/BaiduPCS-Go
+  balena-cli: gh:balena-io/balena-cli
+  ballerina: sys:ballerina
   bandwhich: gh:imsnif/bandwhich
+  baobab: sys:baobab
+  bar: sys:bar
+  bareos-client: sys:bareos-client
+  bartycrouch: gh:FlineDev/BartyCrouch
+  base58: sys:base58
+  base64: sys:base64
+  base91: sys:base91
+  basex: sys:basex
+  bash: sys:bash
+  bash-completion: sys:bash-completion
+  bash-git-prompt: sys:bash-git-prompt
+  bash-language-server: sys:bash-language-server
+  bash-preexec: sys:bash-preexec
+  bashate: sys:bashate
+  bashdb: sys:bashdb
+  bashmount: sys:bashmount
+  bashunit: gh:TypedDevs/bashunit
+  bastet: sys:bastet
   bat: gh:sharkdp/bat
+  bat-extras: sys:bat-extras
+  bats: bats-core
+  bats-core: sys:bats-core
+  bazel: bazelisk
   bazelisk: gh:bazelbuild/bazelisk
+  bb: babashka
+  bcal: gh:jarun/bcal
+  bcftools: sys:bcftools
+  bchunk: sys:bchunk
+  bcpp: sys:bcpp
+  bdw-gc: sys:bdw-gc
+  beancount: sys:beancount
+  beanstalkd: sys:beanstalkd
+  bear: sys:bear
+  beast2: sys:beast2
+  bedops: sys:bedops
+  bedtools: sys:bedtools
+  bee: sys:bee
+  beets: sys:beets
   bento: gh:warpstreamlabs/bento
+  berkeley-db: sys:berkeley-db
+  berglas: gh:GoogleCloudPlatform/berglas
+  bettercap: gh:bettercap/bettercap
+  bfg: sys:bfg
+  bgpq3: sys:bgpq3
+  bgpq4: sys:bgpq4
+  bib-tool: sys:bib-tool
+  bibclean: sys:bibclean
+  bibutils: sys:bibutils
   bicep: gh:Azure/bicep
+  biff: sys:biff
+  binaryen: gh:WebAssembly/binaryen
+  bind: sys:bind
+  bindfs: sys:bindfs
+  binutils: sys:binutils
+  binwalk: sys:binwalk
   biome: gh:biomejs/biome
+  bison: sys:bison
   bitwarden-cli: gh:bitwarden/clients
   bkt: gh:dimo414/bkt
   black: gh:psf/black
+  blackbox: sys:blackbox
+  blake2: sys:blake2
+  blake3: gh:BLAKE3-team/BLAKE3
+  blast: sys:blast
+  blender: sys:blender
+  blis: sys:blis
+  bloaty: gh:google/bloaty
+  blogc: sys:blogc
+  bluepill: sys:bluepill
+  blueutil: sys:blueutil
+  bmake: sys:bmake
+  bmon: sys:bmon
+  bnfc: sys:bnfc
+  bochs: sys:bochs
+  bogofilter: sys:bogofilter
   boilr: gh:tmrts/boilr
+  bokken: sys:bokken
   bombardier: gh:codesenberg/bombardier
+  bonnie++: sys:bonnie++
+  bookokrat: sys:bookokrat
+  boost: sys:boost
+  boot-clj: sys:boot-clj
   bore: gh:ekzhang/bore
+  borgbackup: gh:borgbackup/borg
+  borgmatic: sys:borgmatic
+  bork: sys:bork
   bottom: gh:ClementTsang/bottom
+  botan: sys:botan
+  bowtie2: sys:bowtie2
+  box2d: sys:box2d
+  bpkg: sys:bpkg
+  bpython: sys:bpython
+  braid: sys:braid
+  brainfuck: sys:brainfuck
+  braintree: sys:braintree
+  brew-cask-completion: sys:brew-cask-completion
+  brew-gem: sys:brew-gem
+  brew-pip: sys:brew-pip
+  brigade: sys:brigade
   broot: gh:Canop/broot
+  brotli: sys:brotli
+  browserpass: sys:browserpass
+  brpc: sys:brpc
+  bsdiff: sys:bsdiff
+  bsdmake: sys:bsdmake
+  bsdsfv: sys:bsdsfv
+  bspwm: sys:bspwm
+  btfs: sys:btfs
   btm: bottom
   btop: gh:aristocratos/btop
+  btpd: sys:btpd
+  btrfs-progs: sys:btrfs-progs
+  bubblewrap: sys:bubblewrap
+  buchhalter: sys:buchhalter
   buf: gh:bufbuild/buf
   buildifier: gh:bazelbuild/buildtools
+  buildkit: gh:moby/buildkit
+  buildozer: gh:bazelbuild/buildtools
   buildpacks: gh:buildpacks/pack
+  bulk_extractor: sys:bulk_extractor
+  bullet: sys:bullet
+  bumpversion: sys:bumpversion
   bun: gh:oven-sh/bun
+  bup: sys:bup
+  bupstash: gh:andrewchambers/bupstash
+  burp: sys:burp
   busted: gh:lunarmodules/busted
   busybox: sys:busybox
+  butane: gh:coreos/butane
+  butteraugli: sys:butteraugli
+  bvi: sys:bvi
   bw: bitwarden-cli
+  bwa: sys:bwa
+  bwfmetaedit: sys:bwfmetaedit
+  bwm-ng: sys:bwm-ng
+  byacc: sys:byacc
+  byobu: sys:byobu
+  byteman: sys:byteman
+  bzip2: sys:bzip2
+  bzip3: gh:kspalaiologos/bzip3
+  bzr: breezy
