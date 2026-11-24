@@ -12,7 +12,9 @@ Each `v1/<char>.yaml` file is a flat YAML mapping of `alias: scheme-target`. The
 
 ## Supported target schemes
 
-[Documents](https://readthedocs.io)
+### [Documents](https://readthedocs.io)
+
+### Example
 
 * `gh:user/repo[@tag]` — GitHub Releases (or in-repo `klua.yaml` build)
 * `gl:user/repo[@tag]` — GitLab Releases
