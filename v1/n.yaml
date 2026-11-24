@@ -1,3 +1,61 @@
-# Aliases starting with "n". Format: alias: scheme-target
-neovim: gh:neovim/neovim
-nvim: gh:neovim/neovim
+# klua registry shard: n
+aliases:
+  n: gh:tj/n
+  naabu: gh:projectdiscovery/naabu
+  naga: gh:gfx-rs/wgpu
+  nali: gh:zu1k/nali
+  nano: sys:nano
+  nasm: sys:nasm
+  nats-server: gh:nats-io/nats-server
+  natscli: gh:nats-io/natscli
+  navi: gh:denisidoro/navi
+  nc: netcat
+  ncdu: sys:ncdu
+  ncftp: sys:ncftp
+  ncmpcpp: sys:ncmpcpp
+  ncurses: sys:ncurses
+  neofetch: sys:neofetch
+  neomutt: sys:neomutt
+  neovim: gh:neovim/neovim
+  nerdctl: gh:containerd/nerdctl
+  netcat: sys:netcat
+  netlify-cli: gh:netlify/cli
+  newman: sys:newman
+  nextflow: gh:nextflow-io/nextflow
+  nexttrace: gh:nxtrace/NTrace-core
+  nfpm: gh:goreleaser/nfpm
+  nginx: sys:nginx
+  ngrep: sys:ngrep
+  nickel: gh:tweag/nickel
+  nicotine-plus: sys:nicotine-plus
+  nim: sys:nim
+  ninja: gh:ninja-build/ninja
+  nitch: gh:ssleert/nitch
+  nlohmann-json: sys:nlohmann-json
+  nmap: sys:nmap
+  nmh: sys:nmh
+  node: sys:node
+  node-build: gh:nodenv/node-build
+  nodenv: gh:nodenv/nodenv
+  nomad: gh:hashicorp/nomad
+  notmuch: sys:notmuch
+  nova: gh:FairwindsOps/nova
+  novops: gh:PierreBeucher/novops
+  npth: sys:npth
+  nq: gh:leahneukirchen/nq
+  nqp: sys:nqp
+  nsd: sys:nsd
+  nsq: gh:nsqio/nsq
+  ntfy: gh:binwiederhier/ntfy
+  nu: nushell
+  nuclei: gh:projectdiscovery/nuclei
+  nuget: sys:nuget
+  num-utils: sys:num-utils
+  numbat: gh:sharkdp/numbat
+  nushell: gh:nushell/nushell
+  nvi: sys:nvi
+  nvm: gh:nvm-sh/nvm
+  nvim: neovim
+  nyancat: sys:nyancat
+  nzbget: sys:nzbget
+ 
