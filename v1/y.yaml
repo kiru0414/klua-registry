@@ -1,0 +1,32 @@
+# klua registry shard: y
+aliases:
+  ya: yazi
+  yacc: sys:bison
+  yadm: gh:yadm-dev/yadm
+  yajl: sys:yajl
+  yaml-cpp: sys:yaml-cpp
+  yaml-language-server: sys:yaml-language-server
+  yamlfmt: gh:google/yamlfmt
+  yamllint: sys:yamllint
+  yapf: sys:yapf
+  yara: gh:VirusTotal/yara
+  yarn: sys:yarn
+  yasm: sys:yasm
+  yaws: sys:yaws
+  yazi: gh:sxyazi/yazi
+  ydiff: sys:ydiff
+  yelp-tools: sys:yelp-tools
+  yj: gh:sclevine/yj
+  ykman: yubikey-manager
+  yle-dl: sys:yle-dl
+  youtube-dl: sys:youtube-dl
+  youtube-dlc: yt-dlp
+  you-get: gh:soimort/you-get
+  yq: gh:mikefarah/yq
+  yt-dlp: gh:yt-dlp/yt-dlp
+  ytfzf: gh:pystardust/ytfzf
+  yubico-piv-tool: sys:yubico-piv-tool
+  yubikey-agent: gh:FiloSottile/yubikey-agent
+  yubikey-manager: sys:yubikey-manager
+  yubikey-personalization: sys:yubikey-personalization
+  yyjson: sys:yyjson
