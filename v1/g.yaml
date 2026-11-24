@@ -1,117 +1,133 @@
-# Aliases starting with "g". Format: alias: scheme-target
+# klua registry shard: g
 aliases:
-  g: gh:voidint/g
   g2: gh:gjbae1212/g2
+  gallery-dl: gh:mikf/gallery-dl
+  gama: gh:gama-platform/gama
+  ganache-cli: sys:ganache-cli
   gandi-cli: sys:gandi-cli
+  gap: sys:gap
+  garble: gh:burrowers/garble
+  garden: gh:garden-io/garden
+  gasket: sys:gasket
+  gator: gh:open-policy-agent/gatekeeper
+  gau: gh:lc/gau
   gawk: sys:gawk
-  gb: gh:constabulary/gb
+  gcalcli: sys:gcalcli
   gcc: sys:gcc
   gcovr: sys:gcovr
-  gcsfuse: gh:GoogleCloudPlatform/gcsfuse
-  gdal: sys:gdal
   gdb: sys:gdb
   gdbm: sys:gdbm
+  gdlv: gh:aarzilli/gdlv
   gdu: gh:dundee/gdu
   geckodriver: gh:mozilla/geckodriver
+  gef: sys:gef
   genact: gh:svenstaro/genact
+  gengo: sys:gengo
+  geoip: sys:geoip
+  geogram: sys:geogram
+  gerbil-scheme: sys:gerbil-scheme
+  getdns: sys:getdns
   gettext: sys:gettext
   gfold: gh:nickgerace/gfold
-  gg: gh:gul banana/gg
-  ggshield: gh:GitGuardian/ggshield
+  gg: gh:gulBanana/gg
   gh: gh:cli/cli
-  gh-ost: gh:github/gh-ost
+  gh-dash: gh:dlvhdr/gh-dash
+  ghcup: gh:haskell/ghcup-hs
+  ghostscript: sys:ghostscript
   ghq: gh:x-motemen/ghq
-  gifski: gh:ImageOptim/gifski
+  gibbs: sys:gibbs
+  gif2png: sys:gif2png
+  giflib: sys:giflib
   gifsicle: sys:gifsicle
-  gimme: gh:travis-ci/gimme
-  ginkgo: gh:onsi/ginkgo
   git: sys:git
   git-absorb: gh:tummychow/git-absorb
+  git-annex: sys:git-annex
   git-branchless: gh:arxanas/git-branchless
   git-bug: gh:MichaelMure/git-bug
+  git-cal: sys:git-cal
+  git-chglog: gh:git-chglog/git-chglog
   git-cliff: gh:orhun/git-cliff
-  git-cola: sys:git-cola
+  git-cinnabar: gh:glandium/git-cinnabar
+  git-codereview: sys:git-codereview
   git-crypt: sys:git-crypt
   git-delta: gh:dandavison/delta
+  git-extras: sys:git-extras
   git-filter-repo: sys:git-filter-repo
+  git-fixup: sys:git-fixup
   git-flow: sys:git-flow
+  git-fresh: sys:git-fresh
   git-fame: sys:git-fame
+  git-ftp: sys:git-ftp
+  git-interactive-rebase-tool: gh:MitMaro/git-interactive-rebase-tool
   git-lfs: gh:git-lfs/git-lfs
-  git-quick-stats: gh:arzzen/git-quick-stats
-  git-recent: gh:paulirish/git-recent
-  git-remote-gcrypt: sys:git-remote-gcrypt
-  git-secret: gh:sobolevn/git-secret
-  git-secrets: gh:awslabs/git-secrets
+  git-quick-stats: sys:git-quick-stats
+  git-recent: sys:git-recent
+  git-secret: sys:git-secret
+  git-secrets: sys:git-secrets
   git-sizer: gh:github/git-sizer
-  git-standup: gh:kamranahmedse/git-standup
+  git-standup: sys:git-standup
+  git-subrepo: sys:git-subrepo
   git-town: gh:git-town/git-town
-  git-when-merged: sys:git-when-merged
+  git-trim: gh:foriequal0/git-trim
   git-who: gh:sinclairtarget/git-who
   gitea: gh:go-gitea/gitea
-  github-cli: gh
+  gitg: sys:gitg
+  github-keygen: sys:github-keygen
+  github-markdown-toc: gh:ekalinin/github-markdown-toc
+  gitkube: gh:hasura/gitkube
   gitleaks: gh:gitleaks/gitleaks
-  gitlint: sys:gitlint
-  gitsu: gh:qwerty-iot/gitsu
+  gitless: sys:gitless
+  gitmoji-cli: sys:gitmoji-cli
+  gitsign: gh:sigstore/gitsign
   gitui: gh:extrawurst/gitui
-  gixy: sys:gixy
+  gitwatch: sys:gitwatch
   glab: gl:gitlab-org/cli
   glances: sys:glances
   gleam: gh:gleam-lang/gleam
   glib: sys:glib
   glide: gh:Masterminds/glide
-  glider: gh:nadoo/glider
   global: sys:global
   glow: gh:charmbracelet/glow
-  gitleaks-secret: gitleaks
-  gitleaks-bin: gitleaks
-  gmt: sys:gmt
+  gmic: sys:gmic
+  gmp: sys:gmp
   gnupg: sys:gnupg
   gnuplot: sys:gnuplot
+  gnuradio: sys:gnuradio
+  gnutls: sys:gnutls
   go: sys:go
-  go-bindata: gh:go-bindata/go-bindata
   go-critic: gh:go-critic/go-critic
   go-jira: gh:go-jira/jira
   go-jsonnet: gh:google/go-jsonnet
-  go-junit-report: gh:jstemmer/go-junit-report
-  go-licenses: gh:google/go-licenses
-  go-md2man: gh:cpuguy83/go-md2man
-  go-migrate: gh:golang-migrate/migrate
-  go-swagger: gh:go-swagger/go-swagger
   go-task: task
-  goaccess: sys:goaccess
   gobuster: gh:OJ/gobuster
   gocyclo: gh:fzipp/gocyclo
   godot: gh:godotengine/godot
   gofumpt: gh:mvdan/gofumpt
+  gojq: gh:itchyny/gojq
   golangci-lint: gh:golangci/golangci-lint
-  gollum: sys:gollum
   gomplate: gh:hairyhenderson/gomplate
-  gopls: gh:golang/tools
+  goose: gh:pressly/goose
+  gopass: gh:gopasspw/gopass
   goreleaser: gh:goreleaser/goreleaser
   gosec: gh:securego/gosec
   goss: gh:goss-org/goss
   gotestsum: gh:gotestyourself/gotestsum
   gotop: gh:xxxserxxx/gotop
-  gource: sys:gource
-  govulncheck: gh:golang/vuln
-  goweight: gh:jondot/goweight
   gping: gh:orf/gping
   gpg: gnupg
   gpg2: gnupg
-  gping-bin: gping
   gradle: sys:gradle
   grafana: sys:grafana
   graalvm: sys:graalvm
-  gramps: sys:gramps
-  grc: sys:grc
-  grep: sys:grep
+  graphviz: sys:graphviz
   grex: gh:pemistahl/grex
-  groff: sys:groff
   gron: gh:tomnomnom/gron
   groovy: sys:groovy
-  grpc: sys:grpc
   grpcurl: gh:fullstorydev/grpcurl
   grype: gh:anchore/grype
-  gitleaks-cli: gitleaks
-  gsl: sys:gsl
-  glab: gh:gitlab-org/cli
+  gitleaks: gh:gitleaks/gitleaks
+  gtop: sys:gtop
+  guile: sys:guile
+  gum: gh:charmbracelet/gum
+  gup: gh:nao1215/gup
+  gvisor: sys:gvisor
